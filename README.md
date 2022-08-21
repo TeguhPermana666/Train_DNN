@@ -14,3 +14,7 @@ model train never get good solution
 - transfer learning and unspervised pretrained
 - various optimizers
 - regulation models
+
+- Vanashing gradient dapat dihindari dengan melakukan
+  - weight random initializer glorot, he, lecuan
+  - batch normalization agar scale setiap output layer pada neural network tidak kembali mengalami vanashing ada exploding
