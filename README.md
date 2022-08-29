@@ -18,3 +18,5 @@ model train never get good solution
 - Vanashing gradient dapat dihindari dengan melakukan
   - weight random initializer glorot, he, lecuan
   - batch normalization agar scale setiap output layer pada neural network tidak kembali mengalami vanashing ada exploding
+  - fast optimizer : momentum, Nestrov accrelation gradient(NAG),Ada grad,rmsprop adam,adammax,nadam
+  - learning_rate scheduling : power, exponensial,piecwise cosntant scheduling,performance scheduling,1cycle scheduling
