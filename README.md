@@ -20,3 +20,4 @@ model train never get good solution
   - batch normalization agar scale setiap output layer pada neural network tidak kembali mengalami vanashing ada exploding
   - fast optimizer : momentum, Nestrov accrelation gradient(NAG),Ada grad,rmsprop adam,adammax,nadam
   - learning_rate scheduling : power, exponensial,piecwise cosntant scheduling,performance scheduling,1cycle scheduling
+  - Regulation model : ridge and lasso(l2 & l1 norm form), dropout reguler,aplha dropout, Monte carlo(MC) Dropout reguler and aplha, Max norm regulation 
